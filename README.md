@@ -1,3 +1,7 @@
+Goal of this Fork
+======
+To revise cytube into just a single channel, for use by small independent groups who prefer self hosting. The central feature, syncing playback, is to be maintained while all other features are subject to removal. Most notably the database, and with it accounts and channel creation. Chat may be replaced by an embeded option, depending.
+
 CyTube
 ======
 
